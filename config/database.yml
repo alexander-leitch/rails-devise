@@ -14,7 +14,7 @@ development:
   reconnect: false
   database: rails-devise_development
   pool: 5
-  username: rails-devise
+  username: root
   password:
   host: localhost
 
